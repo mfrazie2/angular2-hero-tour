@@ -40,5 +40,4 @@ jspm_packages
 typings
 
 # Compiled/Transpiled JavaScript
-app/*.js
-app/*.map
+app/js/

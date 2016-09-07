@@ -1,2 +1,2 @@
-# angular2-jokes
-Jokes app built using Angular 2
+# angular2-hero-tour
+App built using Angular 2

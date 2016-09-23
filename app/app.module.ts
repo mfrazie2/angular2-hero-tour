@@ -16,9 +16,9 @@ import { routing } from './app.routing';
 	imports: [ BrowserModule, FormsModule, routing ],
 	declarations: [
 		AppComponent,
-		HeroesComponent,
+		DashboardComponent,
 		HeroDetailComponent,
-		DashboardComponent
+		HeroesComponent
 	],
 	bootstrap: [ AppComponent ],
 	providers: [ HeroService ]
